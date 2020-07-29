@@ -46,5 +46,4 @@ Just create the pull request with clear title of scenario, it should follow foll
 * Try to comment about main parts of code
 
 ## License
-
-GNU GPL V3
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
