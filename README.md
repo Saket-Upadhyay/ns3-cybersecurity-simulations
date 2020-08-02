@@ -7,8 +7,9 @@ Common Cybersecurity Scenarios Simulations in NS3 and NetAnim [C++]
     * NetAnim
     * Bake
 * **Cybersecurity Scenarios** \[Main\]
-   * lowrateTCP DoS
-   * Common DDoS
+   * Added Simulations
+      * lowrateTCP DoS
+      * Common DDoS
 * **Build Instructions** \[Supporting\]
 
 ## How To Build ?
