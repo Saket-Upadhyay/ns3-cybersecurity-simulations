@@ -14,7 +14,7 @@
  *               /   |    \
  *             (B0),(B2)...(Bn) 
  *                 
- *  N0 is legitimate user, communicating with server N3 (data server) via node N2 (maybe website interface server)
+ *  N0 is legitimate user, communicating with server N2 (data server) via node N1 (maybe website server interface )
  *  B0-Bn are bots DDoS-ing the network.
  * 
  * NetAnim XML is saved as -> DDoSim.xml 
@@ -44,7 +44,7 @@
 
 using namespace ns3;
 
-NS_LOG_COMPONENT_DEFINE("TcpHighRateDoSAttack");
+NS_LOG_COMPONENT_DEFINE("DDoSAttack");
 
 int main(int argc, char *argv[])
 {
